@@ -1,6 +1,6 @@
-**Project Title**
+# **Project Title**
 
-🎓 Top Universities Analysis
+# 🎓 Top Universities Analysis
 
 🎯**Purpose**
 
